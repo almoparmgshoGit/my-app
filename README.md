@@ -70,8 +70,6 @@ It demonstrates solid understanding of frontend fundamentals, state management, 
 
 ---
 
-# English Version
-
 ## Overview
 
 This application allows users to browse products, search dynamically, sort by price, and manage a shopping cart with persistent storage.
